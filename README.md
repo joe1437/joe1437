@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joe </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Filler Project 1</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
