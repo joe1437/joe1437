@@ -7,4 +7,4 @@
 
 
  - <b>Conducting a security audit</b>
--  [Audit scope and goals, risk assessment, compliance, controls assessment ](https://github.com/joe1437/AzureSIEM)
+-  [Audit scope and goals, risk assessment, compliance, controls assessment ](https://github.com/joe1437/Security-Audit)
