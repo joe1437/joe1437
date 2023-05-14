@@ -3,8 +3,8 @@
 <h2>My Projects:</h2>
 
 - <b>Microsoft Sentinel (Azure SIEM)</b>
-- [Connecting a SIEM to a live honeypot VM, using custom PowerShell script to collect attackers' geolocation data and plot it on an Microsoft sentinel map](https://github.com/joe1437/AzureSIEM)
+    [Connecting a SIEM to a live honeypot VM, using custom PowerShell script to collect attackers' geolocation data and plot it on an Microsoft sentinel map](https://github.com/joe1437/AzureSIEM)
 
 
  - <b>Conducting a security audit</b>
--  [Audit scope and goals, risk assessment, compliance, controls assessment ](https://github.com/joe1437/Security-Audit)
+     [Audit scope and goals, risk assessment, compliance, controls assessment ](https://github.com/joe1437/Security-Audit)
