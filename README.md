@@ -15,5 +15,6 @@
 - <b>SQL project 1</b>
      [Applying filters to SQL queries ](https://github.com/joe1437/SQL-1)
 
-
+- <b>Linux project 1</b>
+     [Changing file permissions in Linux ](https://github.com/joe1437/Linux-1)
 
