@@ -12,7 +12,8 @@
 - <b>Python project 1</b>
      [Updating a file through a Python algorithm ](https://github.com/joe1437/Python-1)
 
-
+- <b>SQL project 1</b>
+     [Applying filters to SQL queries ](https://github.com/joe1437/SQL-1)
 
 
 
